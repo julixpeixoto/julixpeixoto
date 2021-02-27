@@ -1,4 +1,4 @@
-<h3>Olá 👋, Eu sou o Julierme, pode me chamar de Julix</h3>
+<h3>Olá 👋, eu sou o Julierme, pode me chamar de Julix</h3>
 
 <h3>Aqui você encontra meus projetos pessoais e códigos de práticas de estudo.</h3>
 
